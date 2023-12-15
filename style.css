@@ -1,0 +1,13 @@
+.note{
+  color: lawngreen;
+}
+li[value=3]{
+  color: darkorange;
+}
+li[value=4]{
+  color: fuchsia;
+}
+*{
+  text-align: center;
+}
+/* Write your CSS below, don't change the rules above. */
